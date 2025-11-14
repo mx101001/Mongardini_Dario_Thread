@@ -1,4 +1,4 @@
-package src;
+package src.Produzione.Materassi;
 
 public class ProcessoPadre {
     public static void main(String[] args){
