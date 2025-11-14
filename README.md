@@ -12,8 +12,6 @@
 - [Struttura delle Classi](#-struttura-delle-classi)
 - [Funzionalità dei Thread](#-funzionalità-dei-thread)
 - [Istruzioni per l'Esecuzione](#-istruzioni-per-lesecuzione)
-- [Tecnologie Utilizzate](#-tecnologie-utilizzate)
-- [Autore e Informazioni](#-autore-e-informazioni)
 
 ---
 
